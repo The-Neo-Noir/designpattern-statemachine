@@ -1,0 +1,2 @@
+# designpattern-statemachine
+Exploring statemachine
